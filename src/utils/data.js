@@ -126,13 +126,13 @@ export const PROJECTS = [
     description:
       "A mobile travel app that showcases the culture and beauty of Zimbabwe. Built using React Native with Expo.",
     image: "./assets/images/mobile.png",
-    url: "",
+    link: "",
   },
   {
     title: "Accessory Shop (React JS)",
     description:
       "E-commerce site that sells accessories. Built with ReactJs and Sanity.io",
     image: "./assets/images/shop.png",
-    url: "https://reeds-shop.vercel.app/",
+    link: "https://reeds-shop.vercel.app/",
   },
 ];
