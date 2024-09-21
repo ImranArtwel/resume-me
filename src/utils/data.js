@@ -122,7 +122,7 @@ On a personal level, Imran is easy to get along with. He’s someone you enjoy w
 
 export const PROJECTS = [
   {
-    title: "Mobile Travel App (React Native)",
+    title: "Mobile Travel App (React Native)[Work-In-Progress]",
     description:
       "A mobile travel app that showcases the culture and beauty of Zimbabwe. Built using React Native with Expo.",
     image: "./assets/images/mobile.png",
@@ -134,5 +134,12 @@ export const PROJECTS = [
       "E-commerce site that sells accessories. Built with ReactJs and Sanity.io",
     image: "./assets/images/shop.png",
     link: "https://reeds-shop.vercel.app/",
+  },
+  {
+    title: "Weather Forecast (React JS)",
+    description:
+      "A react weather app that gives current and forecast weather information",
+    image: "./assets/images/weather.png",
+    link: "https://reeds-weather-app.vercel.app/",
   },
 ];

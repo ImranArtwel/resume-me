@@ -14,7 +14,7 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
         onClick={toggleMenu}
       >
         <div className="mobile-menu-container">
-          <img className="logo" src="./assets/images/logo.svg" alt="" />
+          <h3 style={{ color: "white" }}>Imran Artwel </h3>
 
           <ul>
             <li>
@@ -71,9 +71,9 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
               </button>
             </li>
 
-            <button className="contact-btn" onClick={() => {}}>
+            {/* <button className="contact-btn" onClick={() => {}}>
               Hire Me
-            </button>
+            </button> */}
           </ul>
         </div>
       </div>

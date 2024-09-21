@@ -64,6 +64,10 @@
   top: 0.35rem;
 }
 
+.contact-btn {
+  text-decoration: none;
+}
+
 .project-img {
   display: flex;
   justify-content: center;

@@ -7,9 +7,14 @@ const ProjectCard = ({ details }) => {
       <div style={{ display: "flex", justifyContent: "space-between" }}>
         <h6 className="project-title">{details.title}</h6>
         {details.link && (
-          <button className="contact-btn" onClick={() => {}}>
+          <a
+            className="contact-btn"
+            href={details.link}
+            target="_blank"
+            rel="noreferrer"
+          >
             Visit Site
-          </button>
+          </a>
         )}
       </div>
 

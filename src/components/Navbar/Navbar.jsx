@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { AiOutlineClose, AiOutlineMenuFold } from "react-icons/ai";
 import { Link } from "react-scroll";
 import MobileNav from "./MobileNav/MobileNav";
 import "./Navbar.css";
@@ -107,7 +108,7 @@ function NavBar() {
               class={"material-symbols-outlined"}
               style={{ fontSize: "1.8rem" }}
             >
-              {openMenu ? "close" : "menu"}
+              {openMenu ? <AiOutlineClose /> : <AiOutlineMenuFold />}
             </span>
           </button>
         </div>

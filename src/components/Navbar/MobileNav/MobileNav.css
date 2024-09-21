@@ -23,6 +23,7 @@
 .mobile-menu.active {
   opacity: 1;
   transform: translateX(0);
+  color: #000;
 }
 
 .mobile-menu img {
