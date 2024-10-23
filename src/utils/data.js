@@ -91,6 +91,26 @@ export const WORK_EXPERIENCE = [
 
 export const TESTIMONIALS = [
   {
+    text: `I had the pleasure of working alongside Imran for over two years at Avise, and I can confidently say that he is one of the most dedicated and hardworking engineers I’ve met. Imran consistently approached challenges with persistence, never backing down from problems, even when they fell outside his immediate expertise. His ability to learn on the go and tackle unfamiliar tasks head-on is very impressive.
+
+In addition to his technical skills, Imran is a great team player. He’s easy to work with and contributes meaningfully to discussions. Whether it’s brainstorming solutions or reviewing code, his input is valuable and insightful. Imran is not only a skilled engineer but also someone who elevates the dynamics of any team he’s part of.
+
+I highly recommend Imran for any team that values dedication, problem-solving, and collaboration.`,
+    user: "Justin Kincaid - Software Engineer at Avise Inc",
+  },
+  {
+    text: `Imran was an integral part of our engineering team at Avise over the last 2 years! As his manager, I have been consistently impressed by his work ethic, technical knowledge & curiosity, and unwavering commitment to personal and professional growth.
+
+Imran stands out for his ability to tackle almost any problem. Whether it's debugging intricate code or identifying the root cause of system issues, he always approaches challenges with a determined mindset, seeking out any resource he needs to solve the problem effectively. Imran is a thoughtful engineer. He not only completes tasks efficiently but also ensures he follows best practices to write high-quality, maintainable code.
+
+In addition to his technical abilities, Imran is a great team player and effective collaborator. On multiple occasions, he carried his team's sprint work to meet feature delivery goals when other teammates were out sick or pulled away for support work. He doesn't shy away from communication and seeks out good technical conversations and effective pairing sessions.
+
+I've been impressed with Imran's dedication to continuous learning. He regularly seeks out opportunities to expand his knowledge base by picking up tickets outside his comfort zone, actively seeking guidance from experts on the team, and taking online courses.
+
+I have no doubt that Imran will continue to excel in any future endeavor. He will be an invaluable asset to any organization fortunate enough to have him on their team.`,
+    user: "Katie Skiba-Matthews - Head of Engineering at Avise Inc",
+  },
+  {
     text: `I had the pleasure of working with Imran a few years back, and I can confidently say he’s a fantastic software engineer. He is a team player always. He knows how to collaborate effectively and is always willing to step in and help wherever needed. He’s also not afraid to challenge the status quo when it makes sense. Imran can balance being respectful while still challenging things that can be improved. That makes him a strong asset to any team.
 
 One of the things I appreciated most about working with him is his problem-solving mindset. He’s the kind of person who doesn’t get stuck when facing challenges. On top of that, he’s always eager to learn and grow. I’ve seen him dive into new tools and concepts head-first, and it’s clear he’s driven to keep improving and honing his craft.

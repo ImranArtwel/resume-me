@@ -40,7 +40,7 @@ const Testimonial = () => {
 
       <div className="experience-content">
         <div className="arrow-right" onClick={slideRight}>
-          <span class="material-symbols-outlined">
+          <span className="material-symbols-outlined">
             <FaChevronRight size={22} />
           </span>
         </div>

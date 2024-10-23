@@ -71,6 +71,15 @@
 .project-img {
   display: flex;
   justify-content: center;
+  /* dont show img on small screens */
+  @media (max-width: 768px) {
+    display: none;
+    visibility: hidden;
+    height: 0;
+    width: 0;
+    opacity: 0;
+    overflow: hidden;
+  }
 }
 
 .project-title {
