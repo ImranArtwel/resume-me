@@ -14,7 +14,7 @@ const MobileNav = ({ isOpen, toggleMenu }) => {
         onClick={toggleMenu}
       >
         <div className="mobile-menu-container">
-          <h3 style={{ color: "white" }}>Imran Artwel </h3>
+          <h3 style={{ color: "white" }}>Imran Mhlanga </h3>
 
           <ul>
             <li>

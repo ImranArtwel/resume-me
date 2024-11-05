@@ -17,7 +17,7 @@ function NavBar() {
 
       <nav className="nav-wrapper">
         <div className="nav-content">
-          <h3>Imran Artwel </h3>
+          <h3>Imran Mhlanga </h3>
 
           <ul>
             <li>

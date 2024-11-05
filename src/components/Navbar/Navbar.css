@@ -36,9 +36,13 @@
   text-decoration: none;
   font-size: 0.9rem;
   font-weight: 500;
-  color: #000;
+  color: #fff;
   position: relative;
   cursor: pointer;
+
+  @media (max-width: 769px) {
+    color: #000;
+  }
 }
 
 .menu-item::before {
