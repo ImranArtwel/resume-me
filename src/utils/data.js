@@ -162,4 +162,10 @@ export const PROJECTS = [
     image: "./assets/images/weather.png",
     link: "https://reeds-weather-app.vercel.app/",
   },
+  {
+    title: "Graph Traversal Visualizer (React JS)",
+    description: "A react app that visualizes graph traversals",
+    image: "./assets/images/traversal.png",
+    link: "https://graph-traversal-zeta.vercel.app/",
+  },
 ];
